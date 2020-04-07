@@ -1,0 +1,35 @@
+GitHub 
+O lugar onde guarda seus códigos. diferencial- várias empresas guardam nele.pode deixar privado ou píublico.
+é um código que vai ficar na nuvem. 
+rede social dos programadores
+se eu der git "enter" aparece tudo o que o git pode fazer.
+ctrl + l = apaga tudo
+git bash tem os mesmos comandos que o linux
+l + s = listar
+letras são minúsculas. 
+Armazenar/salvar código de página.
+Arquivos estáticos: html, css, JavaScript, imagens, ShockWaves  
+Criar reposutório: Uma pasta onde eu vou poder armazenar meus códigos.
+ctrl + s =salvar
+cd = navegar entre pastas 
+cd.. = voltar
+shift + insert = colar
+git add . git comit git push = as três fases para mandar pro github
+HTML = Hyper Text Markup Language 
+html = estrutura da página
+css = desing da página
+JavaScript = ações
+Atributo = característica a mais da tag
+Class = atributo global 
+atributo = "valor do atributo"
+; = fim doque eu quero dizer
+<em> itálico 
+Pode ter tag dentro de tag.
+<strong> em negrito
+<small></small> = menor
+<mark></mark> = marca-texto
+<sub></sub> = palavra em baixo
+<sup></sup> palavra em cima
+<pre></pre> = maquina de escrever(de código).
+..=voltar"uma navegação entre pastas"
+
