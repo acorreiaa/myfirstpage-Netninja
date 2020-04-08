@@ -32,4 +32,5 @@ Pode ter tag dentro de tag.
 <sup></sup> palavra em cima
 <pre></pre> = maquina de escrever(de código).
 ..=voltar"uma navegação entre pastas"
-
+<ul> = não ordenado(com bolinha)
+<ol> = ordenado (numerado)
