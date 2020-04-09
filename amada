@@ -34,3 +34,5 @@ Pode ter tag dentro de tag.
 ..=voltar"uma navegação entre pastas"
 <ul> = não ordenado(com bolinha)
 <ol> = ordenado (numerado)
+<br> = quebrar a linha "dar enter"
+<hr> = colcar linha divisória
