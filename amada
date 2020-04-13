@@ -36,3 +36,12 @@ Pode ter tag dentro de tag.
 <ol> = ordenado (numerado)
 <br> = quebrar a linha "dar enter"
 <hr> = colcar linha divisória
+alt+shift+f = idealiza tudo
+using style atributo
+inline style
+
+<style>
+    #navigation a{
+        color: red
+    }
+</style>
